@@ -5,7 +5,7 @@ if __name__ == "__main__":
     print(add(2, 3))
 
 
-def kobeitu(z*x):
-    return z*x
+def kobeitu(z, x):
+    return z * x
 if __name__ == "__main__":
-    print(kobeitu(4*5))
+    print(kobeitu(4, 5))
